@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Sobre Nosotros",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "¡Conectando tu mundo!",
+    "subtitle": "Durante 15 años, hemos sido sinónimo de innovación y excelencia en soluciones tecnológicas."
+  },
+  "cta": {
+    "title": "Transforma Tu Negocio Ahora",
+    "subtitle": "Descubre cómo podemos revolucionar tu infraestructura.",
+    "button": "Solicitar Presupuesto"
+  }
+}

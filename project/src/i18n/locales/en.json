@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Connecting your world!",
+    "subtitle": "For 15 years, we've been synonymous with innovation and excellence in technological solutions."
+  },
+  "about": {
+    "title": "Parmenes IT",
+    "subtitle": "Connecting your world!",
+    "description": "For 15 years, we've been synonymous with innovation and excellence in technological solutions. Specialists in infrastructure, focused on meeting the needs of Risk Management companies, we deliver solutions that make a difference in the market.",
+    "mission": "Our mission is clear: transform challenges into innovative and efficient solutions, exceeding expectations and driving results.",
+    "commitment": "Our Commitment! We focus on managing risks and providing dedicated support, always with a touch of innovation and creativity.",
+    "experience": "years of experience in infrastructure focused on risk management and other segments that demand technology to streamline processes, modernize operations and reduce costs."
+  },
+  "services": {
+    "customServers": {
+      "title": "Custom Servers",
+      "description": "Robust and scalable infrastructure solutions for companies of all sizes."
+    },
+    "cloudComputing": {
+      "title": "Cloud Computing",
+      "description": "Migration and management of cloud environments with security and efficiency."
+    },
+    "backup": {
+      "title": "Cloud Backup",
+      "description": "Efficient protection and management of your data with cloud backup."
+    },
+    "security": {
+      "title": "Security",
+      "description": "Complete protection for your data and systems against cyber threats."
+    },
+    "monitoring": {
+      "title": "Zabbix Monitoring",
+      "description": "If it exists, we monitor it! Total control of your environment with the best monitoring platform."
+    },
+    "support": {
+      "title": "Technical Support",
+      "description": "24/7 specialized support to ensure continuous operation of your systems."
+    },
+    "integrations": {
+      "title": "Smart Integrations",
+      "description": "Connect systems and optimize processes with our custom integration solutions."
+    },
+    "vpn": {
+      "title": "VPN Connections",
+      "description": "Protect your data and access with our professional VPN solutions."
+    },
+    "cabling": {
+      "title": "Structured Cabling",
+      "description": "Organized and efficient network infrastructure for high performance."
+    },
+    "wireless": {
+      "title": "Wireless Networks",
+      "description": "High-performance corporate Wi-Fi solutions with total coverage."
+    },
+    "automation": {
+      "title": "Home Automation",
+      "description": "Transform your home into a smart and connected environment."
+    },
+    "voip": {
+      "title": "VoIP Solutions",
+      "description": "Unified communication with VoIP technology to integrate voice, data, and video."
+    },
+    "website": {
+      "title": "Corporate Websites",
+      "description": "Professional digital presence with modern, responsive, and optimized websites."
+    },
+    "learnMore": "Learn More"
+  },
+  "cta": {
+    "title": "Transform Your Business Now",
+    "subtitle": "Discover how we can revolutionize your infrastructure.",
+    "button": "Request a Quote"
+  },
+  "clients": {
+    "title": "Some of Our Clients"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully! We'll be in touch soon.",
+      "error": "An error occurred while sending your message. Please try again."
+    },
+    "info": {
+      "title": "Our Contacts",
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "address": "Address",
+      "hours": {
+        "title": "Business Hours",
+        "weekdays": "Monday to Thursday: 8am to 6pm",
+        "friday": "Friday: 8am to 5pm"
+      }
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "links": {
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "legal": "Legal Notice"
+    }
+  },
+  "cookies": {
+    "title": "Cookie Policy",
+    "description": "We use cookies to improve your experience on our site. Please choose your cookie preferences below.",
+    "details": {
+      "show": "Show more details",
+      "hide": "Hide details"
+    },
+    "types": {
+      "essential": {
+        "title": "Essential Cookies",
+        "description": "Required for basic site functionality. Always active."
+      },
+      "analytics": {
+        "title": "Analytics Cookies",
+        "description": "Help us understand how you use the site."
+      },
+      "marketing": {
+        "title": "Marketing Cookies",
+        "description": "Used to personalize ads and content."
+      },
+      "functional": {
+        "title": "Functional Cookies",
+        "description": "Improve site functionality."
+      }
+    },
+    "buttons": {
+      "acceptAll": "Accept All",
+      "rejectAll": "Reject All",
+      "savePreferences": "Save Preferences"
+    }
+  }
+}

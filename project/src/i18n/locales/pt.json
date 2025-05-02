@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "Início",
+    "services": "Serviços",
+    "about": "Sobre Nós",
+    "blog": "Blog",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Conectando seu mundo!",
+    "subtitle": "Há 15 anos, somos sinônimo de inovação e excelência em soluções tecnológicas."
+  },
+  "about": {
+    "title": "Parmenes IT",
+    "subtitle": "Conectando seu mundo!",
+    "description": "Há 15 anos, somos sinônimo de inovação e excelência em soluções tecnológicas. Especialistas em infraestrutura, com foco em atender as necessidades de Gerenciadoras de Risco, entregamos soluções que fazem a diferença no mercado.",
+    "mission": "Nossa missão é clara: transformar desafios em soluções inovadoras e eficientes, superando expectativas e impulsionando resultados.",
+    "commitment": "Nosso Compromisso! Focamos em gerenciar riscos e oferecer suporte dedicado, sempre com um toque de inovação e criatividade.",
+    "experience": "anos de experiência em infraestrutura voltada para gerenciamento de riscos e outros segmentos que demandam tecnologia para agilizar processos, modernizar operações e reduzir custos."
+  },
+  "services": {
+    "customServers": {
+      "title": "Servidores Personalizados",
+      "description": "Soluções de infraestrutura robustas e escaláveis para empresas de todos os portes."
+    },
+    "cloudComputing": {
+      "title": "Cloud Computing",
+      "description": "Migração e gerenciamento de ambientes em nuvem com segurança e eficiência."
+    },
+    "backup": {
+      "title": "Backup em Nuvem",
+      "description": "Proteção e gerenciamento eficiente dos seus dados com backup em nuvem."
+    },
+    "security": {
+      "title": "Segurança",
+      "description": "Proteção completa para seus dados e sistemas contra ameaças cibernéticas."
+    },
+    "monitoring": {
+      "title": "Monitoramento com Zabbix",
+      "description": "Se existe, monitoramos! Controle total do seu ambiente com a melhor plataforma de monitoramento."
+    },
+    "support": {
+      "title": "Suporte Técnico",
+      "description": "Suporte especializado 24/7 para garantir o funcionamento contínuo dos seus sistemas."
+    },
+    "integrations": {
+      "title": "Integrações Inteligentes",
+      "description": "Conecte sistemas e otimize processos com nossas soluções de integração personalizadas."
+    },
+    "vpn": {
+      "title": "Conexões VPN",
+      "description": "Proteja seus dados e acessos com nossas soluções VPN profissionais."
+    },
+    "cabling": {
+      "title": "Cabeamento Estruturado",
+      "description": "Infraestrutura de redes organizada e eficiente para alta performance."
+    },
+    "wireless": {
+      "title": "Redes Sem Fio",
+      "description": "Soluções Wi-Fi corporativas de alta performance e cobertura total."
+    },
+    "automation": {
+      "title": "Automação Residencial",
+      "description": "Transforme sua casa em um ambiente inteligente e conectado."
+    },
+    "voip": {
+      "title": "Soluções VoIP",
+      "description": "Comunicação unificada com tecnologia VoIP para integrar voz, dados e vídeo."
+    },
+    "website": {
+      "title": "Sites Institucionais",
+      "description": "Presença digital profissional com sites modernos, responsivos e otimizados."
+    },
+    "learnMore": "Saiba mais"
+  },
+  "cta": {
+    "title": "Transforme Seu Negócio Agora",
+    "subtitle": "Descubra como podemos revolucionar sua infraestrutura.",
+    "button": "Solicite um Orçamento"
+  },
+  "clients": {
+    "title": "Alguns de Nossos Clientes"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "message": "Mensagem",
+      "submit": "Enviar Mensagem",
+      "success": "Mensagem enviada com sucesso! Entraremos em contato em breve.",
+      "error": "Ocorreu um erro ao enviar sua mensagem. Por favor, tente novamente."
+    },
+    "info": {
+      "title": "Nossos Contatos",
+      "phone": "Telefone",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "address": "Endereço",
+      "hours": {
+        "title": "Horário de Atendimento",
+        "weekdays": "Segunda a Quinta: 8h às 18h",
+        "friday": "Sexta: 8h às 17h"
+      }
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados",
+    "links": {
+      "terms": "Termos de Serviço",
+      "privacy": "Política de Privacidade",
+      "legal": "Aviso Legal"
+    }
+  },
+  "cookies": {
+    "title": "Política de Cookies",
+    "description": "Utilizamos cookies para melhorar sua experiência em nosso site. Por favor, escolha suas preferências de cookies abaixo.",
+    "details": {
+      "show": "Ver mais detalhes",
+      "hide": "Ocultar detalhes"
+    },
+    "types": {
+      "essential": {
+        "title": "Cookies Essenciais",
+        "description": "Necessários para o funcionamento básico do site. Sempre ativos."
+      },
+      "analytics": {
+        "title": "Cookies Analíticos",
+        "description": "Nos ajudam a entender como você usa o site."
+      },
+      "marketing": {
+        "title": "Cookies de Marketing",
+        "description": "Usados para personalizar anúncios e conteúdo."
+      },
+      "functional": {
+        "title": "Cookies Funcionais",
+        "description": "Melhoram a funcionalidade do site."
+      }
+    },
+    "buttons": {
+      "acceptAll": "Aceitar Todos",
+      "rejectAll": "Recusar Todos",
+      "savePreferences": "Salvar Preferências"
+    }
+  }
+}

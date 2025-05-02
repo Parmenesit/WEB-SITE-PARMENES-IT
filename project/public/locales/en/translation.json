@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Connecting your world!",
+    "subtitle": "For 15 years, we've been synonymous with innovation and excellence in technological solutions."
+  },
+  "cta": {
+    "title": "Transform Your Business Now",
+    "subtitle": "Discover how we can revolutionize your infrastructure.",
+    "button": "Request a Quote"
+  }
+}

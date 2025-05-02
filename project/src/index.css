@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom link animations and effects */
+.link-effect {
+  @apply relative inline-block text-current transition-colors duration-300;
+}
+
+.link-effect::after {
+  content: '';
+  @apply absolute bottom-0 left-0 w-0 h-0.5 bg-current transition-all duration-300 ease-out;
+}
+
+.link-effect:hover::after {
+  @apply w-full;
+}
+
+/* Glowing effect for primary buttons */
+.glow-effect {
+  @apply relative overflow-hidden transition-all duration-300;
+}
+
+.glow-effect::before {
+  content: '';
+  @apply absolute inset-0 bg-white/20 transform scale-0 rounded-full transition-transform duration-500 ease-out;
+}
+
+.glow-effect:hover::before {
+  @apply scale-150;
+}
+
+/* Fancy border animation */
+.border-effect {
+  @apply relative inline-block;
+}
+
+.border-effect::before,
+.border-effect::after {
+  content: '';
+  @apply absolute w-0 h-0.5 bg-current transition-all duration-300;
+}
+
+.border-effect::before {
+  @apply top-0 left-0;
+}
+
+.border-effect::after {
+  @apply bottom-0 right-0;
+}
+
+.border-effect:hover::before,
+.border-effect:hover::after {
+  @apply w-full;
+}
+
+/* Social media icons hover effect */
+.social-icon-effect {
+  @apply transform transition-all duration-300 hover:scale-110 hover:rotate-6;
+}
+
+/* Card hover effects */
+.card-effect {
+  @apply transform transition-all duration-300 hover:-translate-y-1 hover:shadow-xl;
+}
+
+/* Header navigation effects */
+.nav-link {
+  @apply relative overflow-hidden;
+}
+
+.nav-link::after {
+  content: '';
+  @apply absolute bottom-0 left-0 w-full h-0.5 bg-white transform scale-x-0 transition-transform duration-300 origin-left;
+}
+
+.nav-link:hover::after {
+  @apply scale-x-100;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
